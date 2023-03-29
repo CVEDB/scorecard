@@ -1,4 +1,4 @@
-module github.com/ossf/scorecard-webapp
+module github.com/cvedb/scorecard
 
 go 1.19
 
